@@ -1,5 +1,5 @@
 # KaiOS review - Alcatel MyFlip 2 on TracFone
-~! from an Android user
+<sub>from an Android user</sub>
 ## What is KaiOS?
 So basically, KaiOS is an OS made to revive FirefoxOS, an OS that uses Android HAL (and ultimately Linux) to power low end smartphones with specs from both 2012 and 2016 and then making those smartphones "dumbphones" by giving it a Blackberry-like QWERTY, Nokia-like barphone, or Motorola-like flip phone chassis. It's a little ironic because FirefoxOS was designed for smartphones with a smartphone chassis such as the Alcatel One Touch Fire (although the specs are way worse than 90% of the KaiOS devices). (Not to be confused with Amazon's Fire phone.)
 ## Device info
