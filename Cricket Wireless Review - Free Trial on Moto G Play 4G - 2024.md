@@ -18,7 +18,7 @@ _** - Moto G Play 4G - 2024 / Cricket Wireless 3GB Trial (free) / 7 Mbps Down & 
 I have no complaints with signal. I have not lost signal at all.
 # Phone number quality
 No complaints with the number I got, no one is calling me for a Diana (Spectrum) or a Melissa (Google Voice) or a Annie (TracFone), of course this is entirely luck based so you may not get so lucky. I would avoid telling people this number is permanent, and keep your old number running, I do not know if you can keep the number when the trial ends if you buy a phone plan or anything, so I would not risk it.
-# Extra
-I have no idea what else to test, if you have any ideas, make a Github issue. This review is of the 4G service, I was going to use my 5G Samsung A32 for a seperate review but that couldn't happen because....
+# Free Trial Woes
+So there are a few things I noticed that will end your trial prematurely. One is switching phones, I went from a Moto 4G to a Samsung 5G trying to do two reviews with 4G and 5G, but my service just stopped working and calling people, texting people, or accessing data, and after a few moments after switching back to the Moto, I get a notification saying I'm out of data (its a 3GB plan and I used 374 MB), and pressing it takes me to a website that says my account is rather suspended (for fucking what?), or I used up all my data (374 MB <<<< 3 GB), or that my phone isn't compatibile, but it has FUCKING Cricket BRANDING and it was working BEFORE. This is fucking bullshit.
 # Conclusion
-The Free Trial is pretty decent, but AVOID at ALL costs if you want to switch devices. It will kill your service and support says you have to buy a new SIM. Why do you have to buy a new damn SIM card for a free service and if its a BYOD service! What fucking bullshit.
+The Free Trial is pretty decent, but AVOID at ALL costs if you want to switch devices or play around in the app. It will kill your service and support says you have to buy a new SIM. Why do you have to buy a new damn SIM card for a free service and if its a BYOD service! What fucking bullshit.
