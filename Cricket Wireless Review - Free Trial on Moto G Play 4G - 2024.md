@@ -15,7 +15,7 @@ _** - Moto G Play 4G - 2024 / Cricket Wireless 3GB Trial (free) / 7 Mbps Down & 
  - Moto G Power 5G - 2023 / Spectrum Mobile Unlimited ($25/mo) / 178 Mbps Down & 10 Mbps Up / Ookla Speedtest (Play Store) / MediaTek Dimensity 930
  - Alcatel MyFlip 2 / TracFone GSM 180/180/180 ($20/tri-mo) / 6 Mbps Down & 2 Mbps Up / Network Test (KaiStore) / Qualcomm Snapdragon 210
 # Signal
-I have no complaints with signal. I have not lost signal at all.
+I have no complaints with signal. I have not lost signal at all until I tried [switching phones](#Free Trial Woes)
 # Phone number quality
 No complaints with the number I got, no one is calling me for a Diana (Spectrum) or a Melissa (Google Voice) or a Annie (TracFone), of course this is entirely luck based so you may not get so lucky. I would avoid telling people this number is permanent, and keep your old number running, I do not know if you can keep the number when the trial ends if you buy a phone plan or anything, so I would not risk it.
 # Free Trial Woes
