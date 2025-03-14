@@ -1,9 +1,9 @@
-# Cricket Wireless 4G Review - Free Trial on Moto G Play 4G - 2024
+# Cricket Wireless Review - Free Trial on Moto G Play 4G - 2024
 <sub>From a Spectrum Mobile and TracFone user</sub>
 # Who is Cricket and what are they offering?
 Cricket is an MVNO of AT&T, fully owned by AT&T. They offer way cheaper prices such as US$25 per month for an unlimited service with 3 GB of highspeed data, they also have a free trial tier that lasts 2-weeks with a new number with that same 3GB plan, however it is slightly more deprioritized than normal Cricket lines and obviously direct AT&T users and AT&T Business users, along with your data being shut off if you use all 3 GB of your data. They just need an e-mail address, a phone number, and a home address, and they will send you a phsyical SIM kit.
 # Device Info
-For this, I am using a Cricket branded Motorola Moto G Play 4G - 2024, that is still locked and unactivated. It has a Snapdragon 680 4G chipset with 4 GB of RAM and 64 GB of UFS storage. I decided I will use this device over my unlocked Samsung Galaxy A32 5G (T-Mobile (U TMB) converted to Unlocked (U1 XAA) - MTK Dimensity 720) and my unlocked Samsung Galaxy A03s 4G (TracFone (S134DL TFV) - MTK Helio G35) because the Moto is Cricket branded (so less issues) and I felt like Snapdragons have better Modems. (note: I decided that I will make two reviews and use the A32 as my 5G review unit.
+For this, I am using a Cricket branded Motorola Moto G Play 4G - 2024, that is still locked and unactivated. It has a Snapdragon 680 4G chipset with 4 GB of RAM and 64 GB of UFS storage. I decided I will use this device over my unlocked Samsung Galaxy A32 5G (T-Mobile (U TMB) converted to Unlocked (U1 XAA) - MTK Dimensity 720) and my unlocked Samsung Galaxy A03s 4G (TracFone (S134DL TFV) - MTK Helio G35) because the Moto is Cricket branded (so less issues) and I felt like Snapdragons have better Modems.
 # Obtaining the SIM and activating it
 I just normally went to the Play Store and downloaded the tryCricket app, opened it, I used my G-mail address and my Spectrum phone number along with my house address and it came within a few days. I popped out my unactivated Cricket SIM and replaced it with the trial SIM, opened the app, let it activate, when all of my bars disappeared I turned on Airplane mode, rebooted, turned off Airplane mode, turned off Wi-Fi, and tada!! 4G LTE with all bars on Cricket.
 # Speeds and 4G limitation
@@ -11,12 +11,12 @@ Obviously my Motorola handset is not a 5G device so I won't be able to go to the
 I would say it maxes out at around 20 Mbps where I live, which is impressive because TracFone GSM (with a worse modem tho) gets around 10 Mbps average and I heard AT&T is worse than T-Mobile in more suburban and urban areas
 # Comparison with other carriers/devices
 The following is a list of devices that I compared terms of speed at my house: 
+_** - Moto G Play 4G - 2024 / Cricket Wireless 3GB Trial (free) / 7 Mbps Down & 8 Mbps Up / Ookla Speedtest (Play Store) / Qualcomm Snapdragon 680**_
  - Moto G Power 5G - 2023 / Spectrum Mobile Unlimited ($25/mo) / 178 Mbps Down & 10 Mbps Up / Ookla Speedtest (Play Store) / MediaTek Dimensity 930
- - Moto G Play 4G - 2024 / Cricket Wireless 3GB Trial (free) / 7 Mbps Down & 8 Mbps Up / Ookla Speedtest (Play Store) / Qualcomm Snapdragon 680
  - Alcatel MyFlip 2 / TracFone GSM 180/180/180 ($20/tri-mo) / 6 Mbps Down & 2 Mbps Up / Network Test (KaiStore) / Qualcomm Snapdragon 210
 # Signal
 I have no complaints with signal. I have not lost signal at all.
 # Phone number quality
 No complaints with the number I got, no one is calling me for a Diana (Spectrum) or a Melissa (Google Voice) or a Annie (TracFone), of course this is entirely luck based so you may not get so lucky. I would avoid telling people this number is permanent, and keep your old number running, I do not know if you can keep the number when the trial ends if you buy a phone plan or anything, so I would not risk it.
 # Extra
-I have no idea what else to test, if you have any ideas, make a Github issue. This review is of the 4G service, I will make another file with my review with a Samsung A32 5G for the 5G service.
+I have no idea what else to test, if you have any ideas, make a Github issue. This review is of the 4G service, I was going to use my 5G Samsung A32 for a seperate review but I could not get 5G working, my phone would only show LTE and I could not find any settings to use 5G, so that is a little misleading, but either way I could not find any way to get Cricket to work on the Samsung, even with the app, my data just refused to work and calling anybody would lead to me going to support, which I did not want to bother support for a non-problem.
